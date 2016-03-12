@@ -1,0 +1,5 @@
+name: kitPotion
+main: plugin.KitPotion
+version: 1.0.0
+commands:
+  kitPotion:

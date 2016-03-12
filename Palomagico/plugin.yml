@@ -1,0 +1,5 @@
+name: PaloMagico
+main: plugin.PaloMagico
+version: 1.0.0
+commands:
+  palomagico:

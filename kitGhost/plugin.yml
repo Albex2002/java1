@@ -1,0 +1,5 @@
+name: kitGhost
+main: plugin.KitGhost
+version: 1.0.0
+commands:
+  kitghost:

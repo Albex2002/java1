@@ -1,0 +1,5 @@
+name: kitNinja
+main: plugin.KitNinja
+version: 1.0.0
+commands:
+  kitninja:

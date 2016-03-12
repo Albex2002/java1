@@ -1,0 +1,5 @@
+name: KitStarter
+main: plugin.KitStarter
+version: 1.0.0
+commands:
+  kitstarter:

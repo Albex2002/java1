@@ -1,0 +1,3 @@
+name: romper-bloques
+main: plugin.RomperBloques
+version: 1.0.0

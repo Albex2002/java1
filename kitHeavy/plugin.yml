@@ -1,0 +1,5 @@
+name: kitHeavy
+main: plugin.KitHeavy
+version: 1.0.0
+commands:
+  kitheavy:
