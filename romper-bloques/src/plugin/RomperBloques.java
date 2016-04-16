@@ -25,7 +25,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import net.md_5.bungee.api.ChatColor;
 
 public class RomperBloques extends JavaPlugin implements Listener{
-
+/*
 	@Override
 	public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {	
 
@@ -85,7 +85,7 @@ public class RomperBloques extends JavaPlugin implements Listener{
 	public void playerMoveEvent(PlayerMoveEvent e){
 
 
-		WorldCreator.name("capturalabandera").createWorld();
+		/*WorldCreator.name("capturalabandera").createWorld();
 		World cb1 = getServer().getWorld("capturalabandera");
 		Player p = e.getPlayer();
 		//captura la bandera
@@ -111,7 +111,7 @@ public class RomperBloques extends JavaPlugin implements Listener{
 
 
 
-
+*/
 }
 
 

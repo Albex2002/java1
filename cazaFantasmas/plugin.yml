@@ -1,10 +1,9 @@
-name:  Plugin
-main:  plugin.PluginClass
+name:  cazaFantasmas
+main:  plugin.CazaFantasmas
 version:  1.0.0
 commands:
    startgb:
    joingb:
-
 
 
 
