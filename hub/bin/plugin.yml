@@ -1,0 +1,5 @@
+name: hub
+main: plugin.Hub
+version: 1.0.0
+commands:
+  hub:
