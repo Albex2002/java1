@@ -1,0 +1,17 @@
+name:  Alien
+main:  plugin.AlienClass
+version:  1.0.0
+commands:
+   startAlien:
+   joinAlien:
+
+
+
+
+
+
+
+
+
+
+
